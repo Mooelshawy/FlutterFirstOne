@@ -1,0 +1,5 @@
+enum Attendance{
+  aCCOUNTATTENDANCE ,
+  hRATTENDANCE ,
+  iTATTENDANCE
+}
